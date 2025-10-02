@@ -1,4 +1,5 @@
 # Warcraft TTRPG System Reference Document (SRD)
+[Enter the wiki](https://github.com/Skavenlord58/WarcraftTTRPG-SRD/wiki)
 
 ## Project Intent
 
